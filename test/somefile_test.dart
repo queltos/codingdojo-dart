@@ -1,5 +1,3 @@
-library codingdojo;
-
 import 'package:test/test.dart';
 import 'package:codingdojo_dart/somefile.dart';
 
