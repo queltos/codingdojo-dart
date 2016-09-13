@@ -1,0 +1,6 @@
+name: codingdojo_dart
+version: 0.0.1
+description: Coding Dojo Template for Dart
+
+dependencies:
+  test: any
